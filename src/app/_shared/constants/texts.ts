@@ -1,0 +1,1 @@
+export const cardDescription = 'Frontend developer, specializing in high-quality web applications using JavaScript, TypeScript, React.js, and Next.js. Experienced in responsive design, and performance optimization.'

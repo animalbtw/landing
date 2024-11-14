@@ -1,0 +1,13 @@
+.linkKernel {
+    transition: .2s;
+}
+
+.linkKernel:hover {
+    -webkit-box-shadow: 0 2px 0px var(--fontColor);
+    -moz-box-shadow: 0 2px 0px var(--fontColor);
+    box-shadow: 0 2px 0px var(--fontColor);
+}
+
+.activeKernel {
+    box-shadow: 0 2px 0px var(--fontColor);
+}

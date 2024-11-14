@@ -1,0 +1,24 @@
+:root {
+  --background: #141214;
+  --paletteMain: #d0cab4;
+  --fontColor: #141214;
+  --borderRadius: 16px;
+}
+
+body {
+  color: var(--fontColor);
+  background: var(--background);
+  margin: 16px;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: coolveticaRG, Helvetica, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
